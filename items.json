@@ -1,10 +1,12 @@
 [
   {
-    "item": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
+    "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) &#8211; Joel on Software",
+    "link": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
     "timestamp": "2021-06-26T04:16:44.067Z"
   },
   {
-    "item": "https://www.freecodecamp.org/news/css-position-property-explained/",
+    "title": "How the CSS Position Property Works – Explained with Code Examples",
+    "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
     "timestamp": "2021-06-26T03:53:29.496Z"
   }
 ]
