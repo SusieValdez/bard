@@ -1,4 +1,4 @@
-const fs = require("fs");
+import fs from "fs";
 
 const ITEM = process.env.ITEM;
 const FILENAME = "items.json";
