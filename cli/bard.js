@@ -2,23 +2,19 @@ import fetch from "node-fetch";
 
 import config from "../config.js";
 
-const usage = () => console.log("Usage: node ./cli/bard.js URL");
+const usage = () =>
+  console.log("Usage: node ./cli/bard.js TITLE URL DESCRIPTION");
 
-const title = process.argv[2];
-if (title === undefined) {
+if (process.argv.length != 5) {
   usage();
   process.exit();
 }
 
-const link = process.argv[3];
-if (link === undefined) {
-  usage();
-  process.exit();
-}
+const [title, link, description] = process.argv.slice(2);
 
 const body = {
   event_type: "add_item",
-  client_payload: { title, link },
+  client_payload: { title, link, description },
 };
 
 await fetch("https://api.github.com/repos/SusieHatter/bard/dispatches", {

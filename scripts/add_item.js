@@ -1,14 +1,12 @@
 import fs from "fs";
 
-const TITLE = process.env.TITLE;
-const LINK = process.env.LINK;
+const PAYLOAD = JSON.parse(process.env.PAYLOAD);
 const FILENAME = "items.json";
 
 const oldData = JSON.parse(fs.readFileSync(FILENAME));
 const data = [
   {
-    title: TITLE,
-    link: LINK,
+    ...PAYLOAD,
     timestamp: new Date().toISOString(),
   },
   ...oldData,

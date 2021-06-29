@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2.1.5
       - name: Add Item
-        run: TITLE="${{ github.event.client_payload.title }}" LINK="${{ github.event.client_payload.link }}" node scripts/add_item.js
+        run: PAYLOAD='${{ toJson(github.event.client_payload) }}' node scripts/add_item.js
       - name: Add, Commit and Push
         run: |
           git config user.name "Github Actions Bot"
