@@ -1,5 +1,11 @@
 [
   {
+    "description": "Helpful guide to understand the flexbox property in CSS. If you are a visual learner like me, you will love this~!",
+    "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox",
+    "title": "A Complete Guide to Flexbox | CSS-Tricks",
+    "timestamp": "2021-06-29T21:33:36.742Z"
+  },
+  {
     "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) &#8211; Joel on Software",
     "link": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
     "description": "The interesting history behind Ascii, Unicode and UTF-8",
