@@ -5,16 +5,16 @@ import config from "../config.js";
 const usage = () =>
   console.log("Usage: node ./cli/bard.js TITLE URL DESCRIPTION");
 
-if (process.argv.length != 5) {
+if (process.argv.length != 3) {
   usage();
   process.exit();
 }
 
-const [title, link, description] = process.argv.slice(2);
+const link = process.argv[2];
 
 const body = {
   event_type: "add_item",
-  client_payload: { title, link, description },
+  client_payload: { link },
 };
 
 await fetch("https://api.github.com/repos/SusieHatter/bard/dispatches", {

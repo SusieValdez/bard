@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2.1.5
+      - run: npm install
       - name: Add Item
         run: PAYLOAD='${{ toJson(github.event.client_payload) }}' node scripts/add_item.js
       - name: Add, Commit and Push

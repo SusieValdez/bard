@@ -1,20 +1,30 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=LoziivfAAjE",
+    "title": "Intro To Web Scraping With Node.js & Cheerio",
+    "description": "In this video we will take a look at the Node.js library, Cheerio which is a jQuery like tool for the server used in web scraping. This is similar to the pyt...",
+    "image": "https://i.ytimg.com/vi/LoziivfAAjE/maxresdefault.jpg",
+    "timestamp": "2021-07-01T03:53:47.071Z"
+  },
+  {
     "description": "Helpful guide to understand the flexbox property in CSS. If you are a visual learner like me, you will love this~!",
     "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox",
     "title": "A Complete Guide to Flexbox | CSS-Tricks",
+    "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/21059",
     "timestamp": "2021-06-29T21:33:36.742Z"
   },
   {
-    "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) &#8211; Joel on Software",
     "link": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
+    "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) &#8211; Joel on Software",
     "description": "The interesting history behind Ascii, Unicode and UTF-8",
+    "image": "https://149366100.v2.pressablecdn.com/wp-content/uploads/2003/10/oem.png",
     "timestamp": "2021-06-26T04:16:44.067Z"
   },
   {
-    "title": "How the CSS Position Property Works – Explained with Code Examples",
     "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+    "title": "How the CSS Position Property Works – Explained with Code Examples",
     "description": "I hated the position property in CSS until I read this!",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/FCC-Thumbnail--4-.png",
     "timestamp": "2021-06-26T03:53:29.496Z"
   }
 ]
