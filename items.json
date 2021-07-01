@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.internetingishard.com/",
+    "title": "Interneting Is Hard",
+    "description": "Friendly web development tutorials for complete beginners",
+    "image": "https://internetingishard.com/img/social-81cf56.png",
+    "timestamp": "2021-07-01T04:07:35.973Z"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=LoziivfAAjE",
     "title": "Intro To Web Scraping With Node.js & Cheerio",
     "description": "In this video we will take a look at the Node.js library, Cheerio which is a jQuery like tool for the server used in web scraping. This is similar to the pyt...",
