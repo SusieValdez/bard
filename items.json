@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
+    "title": "What Does 'this' Mean in JavaScript? The this Keyword Explained with Examples",
+    "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/0001-2550990419_20210608_114432_0000.png",
+    "timestamp": "2021-07-02T07:40:25.532Z"
+  },
+  {
     "link": "https://www.internetingishard.com/",
     "title": "Interneting Is Hard",
     "description": "Friendly web development tutorials for complete beginners",
