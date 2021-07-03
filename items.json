@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://medium.com/zeyka/do-you-even-know-what-a-bit-means-75cdc7a0c65c",
+    "title": "Do You Even Know What A Bit Means?",
+    "description": "‘There are 10 types of people in the world, those who understand binary and those who don’t.’ — the irony!",
+    "image": "https://miro.medium.com/max/1200/1*hCmAI49QWkImXd7Oa2agTg.jpeg",
+    "timestamp": "2021-07-03T15:53:53.389Z"
+  },
+  {
     "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
     "title": "What Does 'this' Mean in JavaScript? The this Keyword Explained with Examples",
     "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
