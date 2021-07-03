@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
+    "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS",
+    "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/tim-evans-Uf-c4u1usFQ-unsplash.jpg",
+    "timestamp": "2021-07-03T17:12:42.852Z"
+  },
+  {
     "link": "https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639",
     "title": "22 CSS Tricks That Can Make You a Layout Ninja",
     "description": "A look at some lesser-known CSS properties",
