@@ -4,7 +4,7 @@ import cheerio from "cheerio";
 
 const PAYLOAD = JSON.parse(process.env.PAYLOAD);
 
-const FILENAME = "items.json";
+const FILENAME = "data/recently-read.json";
 
 request(PAYLOAD.link, (error, response, html) => {
   if (error) {
