@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
+    "title": "How to Use Async/Await to Write Better JavaScript Code",
+    "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await&quot;, and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/Blue-and-White-Syringe-Corporate-Clean-Vaccine-Information-General-Health-Banner-1.png",
+    "timestamp": "2021-07-04T08:02:57.747Z"
+  },
+  {
     "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
     "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS",
     "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
