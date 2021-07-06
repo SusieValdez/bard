@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
+    "title": "Controlling Your Environment Makes You Happy",
+    "description": "Most of the hard core C++ programmers I know hate user interface programming. This surprises me, because I find UI programming to be quintessentially easy, straightforward, and fun. It’s easy…",
+    "image": "https://149366100.v2.pressablecdn.com/wp-content/uploads/2000/04/Oranim_As_Designed.gif",
+    "timestamp": "2021-07-06T18:10:56.315Z"
+  },
+  {
     "link": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
     "title": "Why You Only Need to Test with 5 Users",
     "description": "Elaborate usability tests are a waste of resources. The best results come from testing no more than 5 users and running as many small tests as you can afford.",
