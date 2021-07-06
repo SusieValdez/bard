@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/",
+    "title": "The Joel Test: 12 Steps to Better Code",
+    "description": "Have you ever heard of SEMA? It’s a fairly esoteric system for measuring how good a software team is. No, wait! Don’t follow that link! It will take you about six years just to understa…",
+    "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1",
+    "timestamp": "2021-07-06T17:58:35.352Z"
+  },
+  {
     "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
     "title": "How to Use Async/Await to Write Better JavaScript Code",
     "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await&quot;, and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
