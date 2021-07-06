@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.freecodecamp.org/news/the-80-20-rule-pareto-principle-explained-in-plain-english/",
+    "title": "The 80-20 Rule – The Pareto Principle Explained in Plain English",
+    "description": "You may have heard someone say that 20% of your clients bring you 80% of all the revenue you'll make. Or that 20% of the people in x country hold 80% of the wealth. These statements are referencing something called the Pareto Principle, or the 80-20 rule. The principle basically",
+    "image": "https://cdn-media-2.freecodecamp.org/w1280/5ff753e775d5f706921c9c3c.jpg",
+    "timestamp": "2021-07-06T18:26:01.542Z"
+  },
+  {
     "link": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
     "title": "Controlling Your Environment Makes You Happy",
     "description": "Most of the hard core C++ programmers I know hate user interface programming. This surprises me, because I find UI programming to be quintessentially easy, straightforward, and fun. It’s easy…",
