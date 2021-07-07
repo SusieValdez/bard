@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
+    "title": "JavaScript Split – How to Split a String into an Array in JS",
+    "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/freeCodeCamp-Cover-1.png",
+    "timestamp": "2021-07-07T02:04:01.804Z"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=Oe421EPjeBE",
     "title": "Node.js and Express.js - Full Course",
     "description": "Learn how to use Node and Express in this comprehensive course. First, you will learn the fundamentals of Node and Express. Then, you will learn to build a c...",
