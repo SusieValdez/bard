@@ -4,6 +4,13 @@
     "title": "How to Format Dates in JavaScript with One Line of Code",
     "description": "For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I",
     "image": "https://www.freecodecamp.org/news/content/images/2021/07/Formatting-Date-in-JavaScript-with-1-line-of-code.jpg",
+    "timestamp": "2021-07-15T09:43:47.411Z"
+  },
+  {
+    "link": "https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/",
+    "title": "How to Format Dates in JavaScript with One Line of Code",
+    "description": "For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/07/Formatting-Date-in-JavaScript-with-1-line-of-code.jpg",
     "timestamp": "2021-07-15T09:41:53.782Z"
   },
   {
