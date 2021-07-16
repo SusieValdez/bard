@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+    "title": "Express JS Crash Course",
+    "description": "In this crash course we will dive into the Express JS framework for Node.js. I recommend first watching my Node.js crash course.Sponsor: Freelancer Bundle (U...",
+    "image": "https://i.ytimg.com/vi/L72fhGm1tfE/maxresdefault.jpg",
+    "timestamp": "2021-07-16T20:53:28.711Z"
+  },
+  {
     "link": "http://www.kaner.com/pdfs/GoodTest.pdf",
     "timestamp": "2021-07-16T20:49:01.028Z"
   },
