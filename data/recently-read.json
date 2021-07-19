@@ -1,5 +1,11 @@
 [
   {
+    "link": "https://erikbern.com/2016/12/05/the-half-life-of-code.html",
+    "title": "The half-life of code & the ship of Theseus",
+    "description": " As a project evolves, does the new code just add on top of the old code? Or does it replace the old code slowly over time? In order to understand this, I built a little thing to analyze Git projects, with help from the formidable GitPython project.",
+    "timestamp": "2021-07-19T07:42:39.623Z"
+  },
+  {
     "link": "https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html",
     "title": "Never attribute to stupidity that which is adequately explained by opportunity cost",
     "description": "People aren't incompetent or lazy, just busy doing other things.",
