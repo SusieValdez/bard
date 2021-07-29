@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
+    "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji",
+    "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a",
+    "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/342448",
+    "timestamp": "2021-07-29T06:16:36.710Z"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=_a5j7KoflTs",
     "title": "Sass Tutorial for Beginners - CSS With Superpowers",
     "description": "In this course, you will learn the basics of Sass. We will start with a brief overview of what Sass is along with what is required to incorporate Sass into y...",
