@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/",
+    "title": "Python VS JavaScript – What are the Key Differences Between The Two Popular Programming Languages?",
+    "description": "Welcome! If you want to learn the differences between Python and JavaScript, then this article is for you.  These two languages are very popular and powerful, but they do have key differences. We will cover them in detail here. In this article, you will learn: The different real-world applications of",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/01/Python-vs.-JavaScript-1.png",
+    "timestamp": "2021-08-19T01:42:44.970Z"
+  },
+  {
     "link": "https://www.freecodecamp.org/news/what-is-recursion-in-javascript/",
     "title": "What is Recursion? A Recursive Function Explained with JavaScript Code Examples",
     "description": "Recursion is a technique used to solve computer problems by creating a function that calls itself until your program achieves the desired result.  This tutorial will help you to learn about recursion and how it compares to the more common loop. What is recursion?Let's say you have a function",
