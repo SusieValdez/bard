@@ -1,5 +1,11 @@
 [
   {
+    "link": "https://docs.godotengine.org/uk/latest/tutorials/misc/jitter_stutter.html",
+    "title": "Fixing jitter and stutter",
+    "description": "What are jitter and stutter?: Jitter and stutter are two different alterations to visible motion of objects on screen that may affect a game, even when running at full speed. These effects are most...",
+    "timestamp": "2021-08-27T20:53:51.710Z"
+  },
+  {
     "link": "https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/",
     "title": "Python VS JavaScript – What are the Key Differences Between The Two Popular Programming Languages?",
     "description": "Welcome! If you want to learn the differences between Python and JavaScript, then this article is for you.  These two languages are very popular and powerful, but they do have key differences. We will cover them in detail here. In this article, you will learn: The different real-world applications of",
