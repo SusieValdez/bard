@@ -1,5 +1,11 @@
 [
   {
+    "link": "https://overreacted.io/what-are-the-react-team-principles/",
+    "title": "What Are the React Team Principles?",
+    "description": "UI Before API.",
+    "timestamp": "2021-11-11T11:14:39.902Z"
+  },
+  {
     "link": "https://docs.godotengine.org/uk/latest/tutorials/misc/jitter_stutter.html",
     "title": "Fixing jitter and stutter",
     "description": "What are jitter and stutter?: Jitter and stutter are two different alterations to visible motion of objects on screen that may affect a game, even when running at full speed. These effects are most...",
