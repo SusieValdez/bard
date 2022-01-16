@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://discord.com/blog/why-discord-is-sticking-with-react-native",
+    "title": "Why Discord is Sticking with React Native",
+    "description": "",
+    "image": "https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/61240c2ba0d4313e9250a078_1_VuxdZXwJQfacQ6B33-eP_g.png",
+    "timestamp": "2022-01-16T14:21:16.829Z"
+  },
+  {
     "link": "https://discord.com/blog/why-discord-is-switching-from-go-to-rust",
     "title": "Why Discord is switching from Go to Rust",
     "description": "",
