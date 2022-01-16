@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://discord.com/blog/why-discord-is-switching-from-go-to-rust",
+    "title": "Why Discord is switching from Go to Rust",
+    "description": "",
+    "image": "https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/611ed6b3ff0df3e75a6b3c28_1_BYeVEgTVQia4MD5LSLoUlA.png",
+    "timestamp": "2022-01-16T14:13:32.413Z"
+  },
+  {
     "link": "https://overreacted.io/what-are-the-react-team-principles/",
     "title": "What Are the React Team Principles?",
     "description": "UI Before API.",
