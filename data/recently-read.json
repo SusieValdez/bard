@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://discord.com/blog/why-discord-is-sticking-with-react-native",
+    "title": "Why Discord is Sticking with React Native",
+    "description": "",
+    "image": "https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/61240c2ba0d4313e9250a078_1_VuxdZXwJQfacQ6B33-eP_g.png",
+    "timestamp": "2022-01-16T14:21:16.829Z"
+  },
+  {
+    "link": "https://discord.com/blog/why-discord-is-switching-from-go-to-rust",
+    "title": "Why Discord is switching from Go to Rust",
+    "description": "",
+    "image": "https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/611ed6b3ff0df3e75a6b3c28_1_BYeVEgTVQia4MD5LSLoUlA.png",
+    "timestamp": "2022-01-16T14:13:32.413Z"
+  },
+  {
+    "link": "https://overreacted.io/what-are-the-react-team-principles/",
+    "title": "What Are the React Team Principles?",
+    "description": "UI Before API.",
+    "timestamp": "2021-11-11T11:14:39.902Z"
+  },
+  {
+    "link": "https://docs.godotengine.org/uk/latest/tutorials/misc/jitter_stutter.html",
+    "title": "Fixing jitter and stutter",
+    "description": "What are jitter and stutter?: Jitter and stutter are two different alterations to visible motion of objects on screen that may affect a game, even when running at full speed. These effects are most...",
+    "timestamp": "2021-08-27T20:53:51.710Z"
+  },
+  {
+    "link": "https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/",
+    "title": "Python VS JavaScript – What are the Key Differences Between The Two Popular Programming Languages?",
+    "description": "Welcome! If you want to learn the differences between Python and JavaScript, then this article is for you.  These two languages are very popular and powerful, but they do have key differences. We will cover them in detail here. In this article, you will learn: The different real-world applications of",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/01/Python-vs.-JavaScript-1.png",
+    "timestamp": "2021-08-19T01:42:44.970Z"
+  },
+  {
+    "link": "https://www.freecodecamp.org/news/what-is-recursion-in-javascript/",
+    "title": "What is Recursion? A Recursive Function Explained with JavaScript Code Examples",
+    "description": "Recursion is a technique used to solve computer problems by creating a function that calls itself until your program achieves the desired result.  This tutorial will help you to learn about recursion and how it compares to the more common loop. What is recursion?Let's say you have a function",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/02/recursion-1.png",
+    "timestamp": "2021-08-06T15:00:10.628Z"
+  },
+  {
+    "link": "https://blog.mediocregopher.com/2021/08/04/selfhosting-a-blog-mailing-list.html",
+    "title": "Self-Hosting a Blog Mailing List",
+    "description": "For fun and no profit.",
+    "timestamp": "2021-08-06T14:05:47.487Z"
+  },
+  {
     "link": "https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/",
     "title": "How to think like a programmer — lessons in problem solving",
     "description": "by Richard Reis How to think like a programmer — lessons in problem solvingBy Richard ReisIf you’re interested in programming, you may well have seen this quote before: “Everyone in this country should learn to program a computer, because it teaches you to think.” — Steve JobsYou probably also wondered what",
